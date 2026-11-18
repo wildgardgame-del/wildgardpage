@@ -82,6 +82,8 @@ const TRANSLATIONS = {
     gal_cap_6: "Suspended Rope Bridge · Moss Ravine",
     gal_cap_7: "Shipwreck Shore & Ancient Driftwood",
     gal_cap_8: "Mountain Rapids & Canyon Timber",
+    gal_cap_9: "Pine Wilds · Blade in Hand",
+    gal_cap_10: "Forest Path · Stealth Stalking",
 
     // Factsheet
     fact_header: "PROJECT FACTSHEET · SPECIFICATIONS",
@@ -244,6 +246,8 @@ const TRANSLATIONS = {
     gal_cap_6: "Ponte Suspensa · Desfiladeiro Musgoso",
     gal_cap_7: "Costa dos Naufrágios & Barco Viking",
     gal_cap_8: "Corredeiras & Passadiço do Cânion",
+    gal_cap_9: "Bosque dos Pinheiros · Espada em Punho",
+    gal_cap_10: "Trilha da Floresta · Espreita Nórdica",
 
     // Factsheet
     fact_header: "FICHA DO PROJETO · ESPECIFICAÇÕES",
