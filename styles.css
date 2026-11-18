@@ -679,6 +679,68 @@ body.norse-body {
   transform: translateY(-2px);
 }
 
+/* Aviso de Resgate de Chaves & Créditos */
+.support-claim-notice {
+  margin-top: 36px;
+  padding: 18px 24px;
+  background: rgba(14, 18, 24, 0.85);
+  border: 1px solid var(--border-stone);
+  border-left: 3px solid var(--gold-primary);
+  border-radius: 4px;
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  text-align: left;
+}
+
+.claim-notice-icon {
+  font-size: 24px;
+  color: var(--gold-primary);
+  line-height: 1;
+  padding-top: 2px;
+}
+
+.claim-notice-body {
+  flex: 1;
+}
+
+.claim-notice-title {
+  font-family: var(--font-title);
+  font-size: 11px;
+  letter-spacing: 1.5px;
+  color: var(--gold-light);
+  margin-bottom: 6px;
+  font-weight: 700;
+}
+
+.claim-notice-text {
+  font-family: var(--font-serif);
+  font-size: 13px;
+  color: var(--text-muted);
+  line-height: 1.6;
+  margin: 0;
+}
+
+.claim-notice-text strong {
+  color: #fff;
+}
+
+.claim-notice-text em {
+  color: var(--text-dark);
+  font-size: 12px;
+}
+
+.gold-link {
+  color: var(--gold-light);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  transition: color 0.2s ease;
+}
+
+.gold-link:hover {
+  color: #fff;
+}
+
 .header-actions {
   display: flex;
   align-items: center;

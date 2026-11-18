@@ -139,6 +139,8 @@ const TRANSLATIONS = {
     crypto_info: "Support the forge using Bitcoin (BTC), Ethereum (ETH), USDT, Solana (SOL) and over 50 cryptocurrencies.",
     btn_copy_pix: "COPY PIX KEY",
     pix_copied_alert: "✓ PIX Key copied to clipboard!",
+    claim_title: "CLAIMING YOUR RUNIC REWARDS & STEAM KEYS",
+    claim_desc: "Pledged via <strong>Pix</strong> or <strong>Crypto</strong> for Tiers 2, 3, or 4? Simply forward your payment receipt or transaction hash to <a href=\"mailto:wildgardgame@gmail.com\" class=\"gold-link\">wildgardgame@gmail.com</a> with your desired in-game credits name and your delivery e-mail. <em>(Stripe card backers are automatically registered with their checkout receipt e-mail).</em>",
 
     // Milestones
     milestones_kicker: "EXPANDING THE REALM",
@@ -148,7 +150,7 @@ const TRANSLATIONS = {
     ms_status_next: "NEXT MILESTONE",
     ms_status_goal3: "MILESTONE 3",
     ms_status_goal4: "MILESTONE 4",
-    ms_status_goal5: "MILESTONE 5",
+    ms_status_goal5: "SUPREME GOAL",
     ms1_title: "Core Realm Launch · PC Steam",
     ms1_desc: "The complete open-world Norse experience: WindControl archery physics, visceral melee parries, Skorg outposts, and survival stealth.",
     ms2_title: "Glacial Trials · Boss Rush Arenas",
@@ -157,8 +159,8 @@ const TRANSLATIONS = {
     ms3_desc: "On-location audio field captures of blizzard gales, heavy weapon impacts, and complete voice recording performed in authentic Old Norse.",
     ms4_title: "Hardcore Survival & New Game+",
     ms4_desc: "True northern frostbite hypothermia mechanics, resource scarcity modifiers, and an expanded second journey with new enemy patrol variants.",
-    ms5_title: "Steam Deck Verified & Console Horizons",
-    ms5_desc: "Specialized native UI scaling and controller optimizations certified for Steam Deck, paving the pathway to future PlayStation 5 and Xbox ports.",
+    ms5_title: "Steam Deck Verified · Free Standalone Prologue Chapter",
+    ms5_desc: "Native Steam Deck certification, plus the release of a standalone 1-hour 'Wildgard: Prologue' free to everyone on Steam to drive massive global wishlists, with all future expansions free for backers.",
 
     // Playtest & Community
     join_kicker: "JOIN THE SAGA",
@@ -297,6 +299,8 @@ const TRANSLATIONS = {
     crypto_info: "Apoie a forja usando Bitcoin (BTC), Ethereum (ETH), USDT, Solana (SOL) e mais de 50 criptomoedas.",
     btn_copy_pix: "COPIAR CHAVE PIX",
     pix_copied_alert: "✓ Chave PIX copiada para a área de transferência!",
+    claim_title: "COMO RESGATAR SUAS RECOMPENSAS & CHAVES STEAM",
+    claim_desc: "Contribuiu via <strong>Pix</strong> ou <strong>Criptomoedas</strong> para os Tiers 2, 3 ou 4? Basta enviar o comprovante ou hash da transação para <a href=\"mailto:wildgardgame@gmail.com\" class=\"gold-link\">wildgardgame@gmail.com</a> informando o nome para os créditos oficiais e seu e-mail para receber as chaves. <em>(Apoiadores via cartão na Stripe são registrados automaticamente com o e-mail do checkout).</em>",
 
     // Metas da Forja (Milestones)
     milestones_kicker: "EXPANDINDO O REINO",
@@ -306,7 +310,7 @@ const TRANSLATIONS = {
     ms_status_next: "PRÓXIMA META",
     ms_status_goal3: "META 3",
     ms_status_goal4: "META 4",
-    ms_status_goal5: "META 5",
+    ms_status_goal5: "META SUPREMA",
     ms1_title: "Lançamento do Jogo Base · PC Steam",
     ms1_desc: "A experiência completa de RPG de ação nórdica: física de arquearia WindControl, combate físico com escudos, acampamentos Skorg e furtividade na relva.",
     ms2_title: "Provações Glaciais · Arenas de Chefões",
@@ -315,8 +319,8 @@ const TRANSLATIONS = {
     ms3_desc: "Captação de áudio real em campo para nevascas, passos na neve e impacto de armas pesadas, com dublagem completa gravada no dialeto nórdico ancestral.",
     ms4_title: "Sobrevivência Hardcore & Novo Jogo+",
     ms4_desc: "Mecânicas implacáveis de hipotermia nas tempestades de gelo, escassez extrema de recursos e uma segunda jornada expandida com patrulhas imprevisíveis.",
-    ms5_title: "Certificação Steam Deck & Portes para Consoles",
-    ms5_desc: "Dimensionamento nativo de interface e otimização avançada para controles de Steam Deck, pavimentando a chegada futura ao PlayStation 5 e Xbox Series X.",
+    ms5_title: "Certificação Steam Deck · Capítulo Prólogo Gratuito na Steam",
+    ms5_desc: "Otimização nativa para Steam Deck e lançamento de um capítulo standalone gratuito de 1 hora ('Wildgard: Prologue') na Steam para atrair centenas de milhares de jogadores, garantindo todas as futuras expansões gratuitas para apoiadores.",
 
     // Playtest & Comunidade
     join_kicker: "JUNTE-SE À SAGA",
